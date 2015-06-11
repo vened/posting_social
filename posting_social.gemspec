@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = PostingSocial::VERSION
   spec.authors       = ["Stolbukhin Maksim"]
   spec.email         = ["maxstbn@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Post to social networks: Facebook, Vkontakte, LiveJournal, Twitter}
+  spec.description   = %q{SocialPoster is a gem that allows you easily post to different social networks.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
