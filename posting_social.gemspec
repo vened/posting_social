@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["maxstbn@gmail.com"]
   spec.summary       = %q{Post to social networks: Facebook, Vkontakte, LiveJournal, Twitter}
   spec.description   = %q{SocialPoster is a gem that allows you easily post to different social networks.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/vened/posting_social"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
